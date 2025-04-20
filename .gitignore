@@ -1,0 +1,6 @@
+./venv
+./gimp
+./input
+./output
+./uploads
+./__pycache__
